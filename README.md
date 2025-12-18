@@ -115,7 +115,7 @@
 ## Conclusion
 This project demonstrates practical application of machine learning for text classification, combining data science techniques with web development to create a functional spam detection system. The 91.23% accuracy shows the model's effectiveness in distinguishing between legitimate and spam emails.
 
-**Date Completed:** December 2024  
+**Date Completed:** October 2025 
 **Tools Used:** Python, Scikit-learn, Streamlit, Pandas, NumPy  
-**Next Steps:** Explore deep learning approaches (LSTM, BERT) for improved accuracy
+
 
